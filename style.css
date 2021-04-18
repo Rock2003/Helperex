@@ -1,0 +1,75 @@
+body {
+    background-color: #F55557;
+}
+
+.mainItems{
+    margin-top: 6rem;
+    display: grid;
+    place-items: center;
+    
+}
+
+.mainItems > div {
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-bottom: 5rem;
+    display: grid;
+    place-items: center;
+}
+.thatimage {
+    width: 40%;
+    height: auto;
+}
+#descriptionOfMain {
+    width: 50%;
+}
+
+.cdc-widget-color-white {
+    border-radius: 6px;
+    color: black;
+    background-color: white;
+}
+
+.footer {
+    position: absolute;
+    width: 100%;
+    height: auto;
+    background-color: brown;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.container1{
+    display: inline-block;
+    float: left;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    margin-right: 1rem;
+    margin-left: 1rem;
+    width: 50%;
+    display: inline-block;
+}
+.container2{
+    display: inline-block;
+    float: left;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
+.thelinks {
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.navbar-brand {
+    font-size: 2rem;
+}
+.nav-link {
+    font-size: 1.75rem;
+}
+p {
+    margin-top: 1rem;
+    margin-bottom: 2.5rem;
+    font-size: 1.4rem;
+}
