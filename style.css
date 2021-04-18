@@ -62,7 +62,7 @@ body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
-.questionaireq{
+h1, .questionaireq{
     text-align: center;
 }
 
@@ -82,5 +82,4 @@ p {
     .descriptionOfMain {
         width: 80%;
     }
-
 }
