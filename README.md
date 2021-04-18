@@ -1,7 +1,7 @@
 # [Helperex](https://rock2003.github.io/Helperex/)
 
 ### [Helperex](https://rock2003.github.io/Helperex/) is a health screener where you can receive Physical and Mental Health support.
-![image](./images/Screenshot.png)
+![image](./images/heart.svg)
 
 ## Inspiration
 I wanted to build something that helps people. Many people right now are very afraid of the ongoing Covid pandemic and might want to either get checked on that, and/or receive Mental support. My app does just that!
