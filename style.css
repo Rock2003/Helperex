@@ -20,7 +20,7 @@ body {
     width: 40%;
     height: auto;
 }
-#descriptionOfMain {
+.descriptionOfMain {
     width: 50%;
 }
 
@@ -62,6 +62,10 @@ body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
+.questionaireq{
+    text-align: center;
+}
+
 .navbar-brand {
     font-size: 2rem;
 }
@@ -72,4 +76,11 @@ p {
     margin-top: 1rem;
     margin-bottom: 2.5rem;
     font-size: 1.4rem;
+}
+
+@media screen and (max-width: 620px) {
+    .descriptionOfMain {
+        width: 80%;
+    }
+
 }
